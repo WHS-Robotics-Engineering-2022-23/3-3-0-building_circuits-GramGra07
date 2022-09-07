@@ -1,1 +1,1 @@
-Here is why.
+The circuit was completely broken. No resistor was actually connected to the power or ground wires. To fix this, I just connected each of the 3 resistors and led's to the ground and the power.
